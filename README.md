@@ -1,17 +1,17 @@
 # roadmap
-Useful resources I've written or will write.  As of March 2020, it's extremely under construction.
- 
-If someone else said it better, I just link to them.
+Useful resources.  Sometimes I write, other times I just link to someone who said it better.
 
-If I've sent you this list, I probably meant well but was too lazy to fully interact.
+As of March 2020, it's extremely under construction.
+
+The person who sent you this list meant well but was probably too lazy to fully interact.
 
 - [Tech](#heading)
-  * [Distributed Systems](#distributed-systems)
-  * [Performance](#sub-heading)
-  * [3D/VR/AR](#sub-heading)
-  * [High Performance](#sub-heading)
-  * [Data Science/Machine Learning sucks](#sub-heading)
-  * [#relatable Dev Problems](#sub-heading)
+  * [Distributed Systems](#distributed systems)
+  * [Performance](#performance)
+  * [3D/VR/AR](#3D-VR-AR)
+  * [High Performance](#high-performance)
+  * [Data Science/Machine Learning](#data-science)
+  * [#relatable Dev Problems](#problems)
   * [](#sub-heading)
 
 - [Career](#heading-1)
